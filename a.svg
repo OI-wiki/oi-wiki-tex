@@ -1,0 +1,13 @@
+<svg id="graph" width="890" height="258" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" >
+
+  <!-- pattern -->
+  <defs>
+    <pattern id="image" x="0%" y="0%" height="100%" width="100%"
+             viewBox="0 0 512 512">
+      <image x="0%" y="0%" width="512" height="512" xlink:href="docs/images/wordArt.png"></image>
+      <!-- <image x="0%" y="0%" width="512" height="512" xlink:href="https://cdn3.iconfinder.com/data/icons/people-professions/512/Baby-512.png"></image> -->
+    </pattern>
+  </defs>
+    
+  <circle id="sd" class="medium" cx="5%" cy="40%" r="5%" fill="url(#image)" stroke="lightblue" stroke-width="0.5%" />
+</svg>
